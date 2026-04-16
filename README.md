@@ -36,3 +36,7 @@
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
 
 ## Just follow me and Star⭐ my repository
+=======
+# attendance-system-face-recognition
+AI-based Attendance Management System using Face Recognition with OpenCV, Python, and Tkinter. Includes dashboard, reports, and real-time attendance tracking.
+>>>>>>> fa0ca5b389ae9152d1e2dfca7024d57426b7feb4
